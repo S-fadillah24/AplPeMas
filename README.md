@@ -1,6 +1,6 @@
 # AplPeMas-CI4
 
- Aplikasi ini dikembangkan dengan PHP Version 7.4.22 dan Framework Codeigniter 4.0.5
+ Aplikasi ini dikembangkan dengan PHP Version 7.4.22 dan Framework Codeigniter 4.3.1
  
  Dibuat untuk memenuhi tugas UKK Rekayasa Perangkat Lunak SMK N 2 KUNINGAN
 ## Cara Instalasi
